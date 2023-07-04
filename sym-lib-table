@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Adafruit-ItsyBitsy-M4")(type "KiCad")(uri "${KIPRJMOD}/Local_Lib/Adafruit-ItsyBitsy-M4.kicad_sym")(options "")(descr ""))
+)

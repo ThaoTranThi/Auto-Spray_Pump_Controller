@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>E:\MIF\project individu\Freelancer\Scott K\Electronic\AUTOPUMP_V2.01\AUTOPUMP_V2.01.kicad_sch</source>
+    <date>5/17/2022 3:23:04 PM</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>AUTOPUMP_V2.01.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Category">Capacitor</field>
+        <field name="Description">CAP CER 0.1UF 50V X7R 0603</field>
+        <field name="MFR">Samsung Electro-Mechanics</field>
+        <field name="MPN">CL10B104KB8NNWC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Category" value="Capacitor"/>
+      <property name="Description" value="CAP CER 0.1UF 50V X7R 0603"/>
+      <property name="MFR" value="Samsung Electro-Mechanics"/>
+      <property name="MPN" value="CL10B104KB8NNWC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>233a029f-cee1-466b-a8ac-fb2d68f4c029</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>220uF/35v</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <fields>
+        <field name="Category">Capacitor</field>
+        <field name="Description">CAP ALUM 220UF 20% 35V RADIAL</field>
+        <field name="MFR">Würth Elektronik</field>
+        <field name="MPN">860020574012</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Category" value="Capacitor"/>
+      <property name="Description" value="CAP ALUM 220UF 20% 35V RADIAL"/>
+      <property name="MFR" value="Würth Elektronik"/>
+      <property name="MPN" value="860020574012"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca2b5bde-7a11-4e2e-b44a-d1aa3b78e494</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Category">Capacitor</field>
+        <field name="Description">CAP CER 0.1UF 50V X7R 0603</field>
+        <field name="MFR">Samsung Electro-Mechanics</field>
+        <field name="MPN">CL10B104KB8NNWC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Category" value="Capacitor"/>
+      <property name="Description" value="CAP CER 0.1UF 50V X7R 0603"/>
+      <property name="MFR" value="Samsung Electro-Mechanics"/>
+      <property name="MPN" value="CL10B104KB8NNWC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0fa87b2-c08b-4f51-96e3-15879cf10101</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Category">Capacitor</field>
+        <field name="Description">CAP CER 0.1UF 50V X7R 0603</field>
+        <field name="MFR">Samsung Electro-Mechanics</field>
+        <field name="MPN">CL10B104KB8NNWC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Category" value="Capacitor"/>
+      <property name="Description" value="CAP CER 0.1UF 50V X7R 0603"/>
+      <property name="MFR" value="Samsung Electro-Mechanics"/>
+      <property name="MPN" value="CL10B104KB8NNWC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9ec327d4-a367-48c1-9ff9-c77bc32dbdbb</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>18pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Category">Capacitor</field>
+        <field name="Description">CAP CER 18PF 50V C0G/NP0 0603</field>
+        <field name="MFR">Samsung Electro-Mechanics</field>
+        <field name="MPN">CL10C180JB81PNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Category" value="Capacitor"/>
+      <property name="Description" value="CAP CER 18PF 50V C0G/NP0 0603"/>
+      <property name="MFR" value="Samsung Electro-Mechanics"/>
+      <property name="MPN" value="CL10C180JB81PNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cc17a71-b178-4cd2-a178-9c5cd9364e21</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>1nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Category">Capacitor</field>
+        <field name="Description">CAP CER 1000PF 50V X7R 0603</field>
+        <field name="MFR">Samsung Electro-Mechanics</field>
+        <field name="MPN">CL10B102KB8NFNC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Category" value="Capacitor"/>
+      <property name="Description" value="CAP CER 1000PF 50V X7R 0603"/>
+      <property name="MFR" value="Samsung Electro-Mechanics"/>
+      <property name="MPN" value="CL10B102KB8NFNC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ddf2acf3-7b96-458a-a233-8df3554a644f</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>220uF</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <fields>
+        <field name="Category">Capacitor</field>
+        <field name="Description">CAP CER 220UF 6.3V X5R 1206</field>
+        <field name="MFR">Murata Electronics</field>
+        <field name="MPN">GRM31CR60J227ME11L</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Category" value="Capacitor"/>
+      <property name="Description" value="CAP CER 220UF 6.3V X5R 1206"/>
+      <property name="MFR" value="Murata Electronics"/>
+      <property name="MPN" value="GRM31CR60J227ME11L"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13b8f106-8a5d-4c64-9057-41de86d97a09</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Category">Capacitor</field>
+        <field name="Description">CAP CER 0.1UF 50V X7R 0603</field>
+        <field name="MFR">Samsung Electro-Mechanics</field>
+        <field name="MPN">CL10B104KB8NNWC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Category" value="Capacitor"/>
+      <property name="Description" value="CAP CER 0.1UF 50V X7R 0603"/>
+      <property name="MFR" value="Samsung Electro-Mechanics"/>
+      <property name="MPN" value="CL10B104KB8NNWC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>888e1fcc-cc8a-41ad-893f-2cbe27d79717</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Category">Capacitor</field>
+        <field name="Description">CAP CER 0.1UF 50V X7R 0603</field>
+        <field name="MFR">Samsung Electro-Mechanics</field>
+        <field name="MPN">CL10B104KB8NNWC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Category" value="Capacitor"/>
+      <property name="Description" value="CAP CER 0.1UF 50V X7R 0603"/>
+      <property name="MFR" value="Samsung Electro-Mechanics"/>
+      <property name="MPN" value="CL10B104KB8NNWC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>af5ce716-268c-4635-b160-9ba3fc1bc141</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Category">Capacitor</field>
+        <field name="Description">CAP CER 10000PF 50V X7R 0603</field>
+        <field name="MFR">Samsung Electro-Mechanics</field>
+        <field name="MPN">CL10B103KB8NNWC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Category" value="Capacitor"/>
+      <property name="Description" value="CAP CER 10000PF 50V X7R 0603"/>
+      <property name="MFR" value="Samsung Electro-Mechanics"/>
+      <property name="MPN" value="CL10B103KB8NNWC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7f56035-62ed-448c-ac77-d211831fd412</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Category">Capacitor</field>
+        <field name="Description">CAP CER 0.1UF 50V X7R 0603</field>
+        <field name="MFR">Samsung Electro-Mechanics</field>
+        <field name="MPN">CL10B104KB8NNWC</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Category" value="Capacitor"/>
+      <property name="Description" value="CAP CER 0.1UF 50V X7R 0603"/>
+      <property name="MFR" value="Samsung Electro-Mechanics"/>
+      <property name="MPN" value="CL10B104KB8NNWC"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4711fd04-007b-4fff-9d34-f7138620dd03</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>STPS1H100A</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="Category">Diode</field>
+        <field name="Description">DIODE SCHOTTKY 100V 1A SMA</field>
+        <field name="MFR">STMicroelectronics</field>
+        <field name="MPN">STPS1H100A</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Category" value="Diode"/>
+      <property name="Description" value="DIODE SCHOTTKY 100V 1A SMA"/>
+      <property name="MFR" value="STMicroelectronics"/>
+      <property name="MPN" value="STPS1H100A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f92b3411-e73b-47be-8f24-2425a39287a3</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>SMAJ36A</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="Category">Diode</field>
+        <field name="Description">TVS DIODE 36VWM 58.1VC DO214AC</field>
+        <field name="MFR">Littelfuse Inc.</field>
+        <field name="MPN">SMAJ36A</field>
+      </fields>
+      <libsource lib="Device" part="D_TVS" description="Bidirectional transient-voltage-suppression diode"/>
+      <property name="Category" value="Diode"/>
+      <property name="Description" value="TVS DIODE 36VWM 58.1VC DO214AC"/>
+      <property name="MFR" value="Littelfuse Inc."/>
+      <property name="MPN" value="SMAJ36A"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27eaa454-821c-4388-8a78-529dd311e40d</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>SS34</value>
+      <footprint>Diode_SMD:D_SMC</footprint>
+      <fields>
+        <field name="Category">Diode</field>
+        <field name="Description">DIODE SCHOTTKY 40V 3A SMC</field>
+        <field name="MFR">onsemi</field>
+        <field name="MPN">SS34</field>
+      </fields>
+      <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="Category" value="Diode"/>
+      <property name="Description" value="DIODE SCHOTTKY 40V 3A SMC"/>
+      <property name="MFR" value="onsemi"/>
+      <property name="MPN" value="SS34"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa253925-a1ac-4cd5-b15f-f36dde1cda01</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>3.3V</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <fields>
+        <field name="Category">Zener</field>
+        <field name="Description">SOD-123, ZENER</field>
+        <field name="MFR">Panjit International Inc.</field>
+        <field name="MPN">BZT52-C3V3_R1_00001</field>
+      </fields>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Category" value="Zener"/>
+      <property name="Description" value="SOD-123, ZENER"/>
+      <property name="MFR" value="Panjit International Inc."/>
+      <property name="MPN" value="BZT52-C3V3_R1_00001"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e87969e7-982b-40ce-b9e4-c2a54b598e8b</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>SS14-E3/5AT</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="Category">Diode</field>
+        <field name="Description">DIODE SCHOTTKY 40V 1A DO214AC</field>
+        <field name="MFR">NextGen Components</field>
+        <field name="MPN">SS14-E3/5AT</field>
+      </fields>
+      <libsource lib="Device" part="D" description="Diode"/>
+      <property name="Category" value="Diode"/>
+      <property name="Description" value="DIODE SCHOTTKY 40V 1A DO214AC"/>
+      <property name="MFR" value="NextGen Components"/>
+      <property name="MPN" value="SS14-E3/5AT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>258dae0d-5ad4-44ff-8645-0ab5efe93e7d</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>SMAJ5.0A-E3/61</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <fields>
+        <field name="Category">Diode</field>
+        <field name="Description">TVS DIODE 5VWM 9.2VC DO214AC</field>
+        <field name="MFR">Vishay General Semiconductor - Diodes Division</field>
+        <field name="MPN">SMAJ5.0A-E3/61</field>
+      </fields>
+      <libsource lib="Device" part="D_TVS" description="Bidirectional transient-voltage-suppression diode"/>
+      <property name="Category" value="Diode"/>
+      <property name="Description" value="TVS DIODE 5VWM 9.2VC DO214AC"/>
+      <property name="MFR" value="Vishay General Semiconductor - Diodes Division"/>
+      <property name="MPN" value="SMAJ5.0A-E3/61"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>98da673e-9056-4a30-8fcb-f91c100f7a71</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>RED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <fields>
+        <field name="Category">LED</field>
+        <field name="Description">LED RED CLEAR CHIP SMD</field>
+        <field name="MFR">Lite-On Inc.</field>
+        <field name="MPN">LTST-C190KRKT</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Category" value="LED"/>
+      <property name="Description" value="LED RED CLEAR CHIP SMD"/>
+      <property name="MFR" value="Lite-On Inc."/>
+      <property name="MPN" value="LTST-C190KRKT"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44ba3276-0b16-48f4-bf7f-81aa064bdc44</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>footprint:MountingHole_3.2mm_M3_standoffs</footprint>
+      <fields>
+        <field name="Category">Solderrable Standoff</field>
+        <field name="Description">SM STANDOFF ON T&amp;R 6MM</field>
+        <field name="MFR">Keystone Electronics</field>
+        <field name="MPN">24884</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Category" value="Solderrable Standoff"/>
+      <property name="Description" value="SM STANDOFF ON T&amp;R 6MM"/>
+      <property name="MFR" value="Keystone Electronics"/>
+      <property name="MPN" value="24884"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6f8d7f63-1419-4d99-99a9-9e11d47c3e24</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>footprint:MountingHole_3.2mm_M3_standoffs</footprint>
+      <fields>
+        <field name="Category">Solderrable Standoff</field>
+        <field name="Description">SM STANDOFF ON T&amp;R 6MM</field>
+        <field name="MFR">Keystone Electronics</field>
+        <field name="MPN">24884</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Category" value="Solderrable Standoff"/>
+      <property name="Description" value="SM STANDOFF ON T&amp;R 6MM"/>
+      <property name="MFR" value="Keystone Electronics"/>
+      <property name="MPN" value="24884"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6ce96d96-4e4b-4e2f-99a0-9e34ce252335</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>footprint:MountingHole_3.2mm_M3_standoffs</footprint>
+      <fields>
+        <field name="Category">Solderrable Standoff</field>
+        <field name="Description">SM STANDOFF ON T&amp;R 6MM</field>
+        <field name="MFR">Keystone Electronics</field>
+        <field name="MPN">24884</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Category" value="Solderrable Standoff"/>
+      <property name="Description" value="SM STANDOFF ON T&amp;R 6MM"/>
+      <property name="MFR" value="Keystone Electronics"/>
+      <property name="MPN" value="24884"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8bc3b92e-4db8-4bf2-b5b1-d8c19b501c7a</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>footprint:MountingHole_3.2mm_M3_standoffs</footprint>
+      <fields>
+        <field name="Category">Solderrable Standoff</field>
+        <field name="Description">SM STANDOFF ON T&amp;R 6MM</field>
+        <field name="MFR">Keystone Electronics</field>
+        <field name="MPN">24884</field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Category" value="Solderrable Standoff"/>
+      <property name="Description" value="SM STANDOFF ON T&amp;R 6MM"/>
+      <property name="MFR" value="Keystone Electronics"/>
+      <property name="MPN" value="24884"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>087c467f-6422-445e-a6d6-3211332048cf</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>PRESSURE SENSOR</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-3-5.08_1x03_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Category">Screwed Terminal</field>
+        <field name="Description">TERM BLK 3P SIDE ENT 5.08MM PCB</field>
+        <field name="MFR">Phoenix Contact</field>
+        <field name="MPN">1711738</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x03" description="Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Category" value="Screwed Terminal"/>
+      <property name="Description" value="TERM BLK 3P SIDE ENT 5.08MM PCB"/>
+      <property name="MFR" value="Phoenix Contact"/>
+      <property name="MPN" value="1711738"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3d3b56b-4629-4757-8a38-8a9eba963f93</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>MOTOR</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Category">Screwed Terminal</field>
+        <field name="Description">TERM BLK 2P SIDE ENT 5.08MM PCB</field>
+        <field name="MFR">Phoenix Contact</field>
+        <field name="MPN">1711725</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Category" value="Screwed Terminal"/>
+      <property name="Description" value="TERM BLK 2P SIDE ENT 5.08MM PCB"/>
+      <property name="MFR" value="Phoenix Contact"/>
+      <property name="MPN" value="1711725"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f261c73-a535-4dc1-b4be-1cafc242c0d1</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>SPD</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Category">Screwed Terminal</field>
+        <field name="Description">TERM BLK 2P SIDE ENT 5.08MM PCB</field>
+        <field name="MFR">Phoenix Contact</field>
+        <field name="MPN">1711725</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Category" value="Screwed Terminal"/>
+      <property name="Description" value="TERM BLK 2P SIDE ENT 5.08MM PCB"/>
+      <property name="MFR" value="Phoenix Contact"/>
+      <property name="MPN" value="1711725"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2b1fd9d7-b727-4e2c-bbec-670331db4b35</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>POWER IN</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Category">Screwed Terminal</field>
+        <field name="Description">TERM BLK 2P SIDE ENT 5.08MM PCB</field>
+        <field name="MFR">Phoenix Contact</field>
+        <field name="MPN">1711725</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Category" value="Screwed Terminal"/>
+      <property name="Description" value="TERM BLK 2P SIDE ENT 5.08MM PCB"/>
+      <property name="MFR" value="Phoenix Contact"/>
+      <property name="MPN" value="1711725"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4952ea38-a7dc-4367-8d97-299655122fd8</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>ALARM</value>
+      <footprint>TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-3-2-5.08_1x02_P5.08mm_Horizontal</footprint>
+      <fields>
+        <field name="Category">Screwed Terminal</field>
+        <field name="Description">TERM BLK 2P SIDE ENT 5.08MM PCB</field>
+        <field name="MFR">Phoenix Contact</field>
+        <field name="MPN">1711725</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_01x02" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Category" value="Screwed Terminal"/>
+      <property name="Description" value="TERM BLK 2P SIDE ENT 5.08MM PCB"/>
+      <property name="MFR" value="Phoenix Contact"/>
+      <property name="MPN" value="1711725"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>78a688dd-9733-47ef-8c11-af3f18728edd</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>10uH/3A</value>
+      <footprint>Inductor_SMD:L_Vishay_IHLP-2525</footprint>
+      <fields>
+        <field name="Category">Power Inductor</field>
+        <field name="Description">FIXED IND 10UH 3A 105 MOHM SMD</field>
+        <field name="MFR">Vishay Dale</field>
+        <field name="MPN">IHLP2525CZER100M01</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Category" value="Power Inductor"/>
+      <property name="Description" value="FIXED IND 10UH 3A 105 MOHM SMD"/>
+      <property name="MFR" value="Vishay Dale"/>
+      <property name="MPN" value="IHLP2525CZER100M01"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>162b5bfb-b957-4cc2-a1c6-f8a24df5e0c8</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>IRLB8721PBF</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <datasheet>http://www.infineon.com/dgdl/irf4905.pdf?fileId=5546d462533600a4015355e32165197c</datasheet>
+      <fields>
+        <field name="Category">Mosfet</field>
+        <field name="Description">MOSFET N-CH 30V 62A TO220AB</field>
+        <field name="MFR">Infineon Technologies</field>
+        <field name="MPN">IRLB8721PBF</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="IRF4905" description="-74A Id, -55V Vds, Single P-Channel HEXFET Power MOSFET, 20mOhm Ron, TO-220AB"/>
+      <property name="Category" value="Mosfet"/>
+      <property name="Description" value="MOSFET N-CH 30V 62A TO220AB"/>
+      <property name="MFR" value="Infineon Technologies"/>
+      <property name="MPN" value="IRLB8721PBF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c0ed311-6bb8-4d34-9f5c-351dc48d9554</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>1.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Category">Resistor</field>
+        <field name="Description">RES 1.2K OHM 1% 1/10W 0603</field>
+        <field name="MFR">Stackpole Electronics Inc</field>
+        <field name="MPN">RMCF0603FT1K20</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Category" value="Resistor"/>
+      <property name="Description" value="RES 1.2K OHM 1% 1/10W 0603"/>
+      <property name="MFR" value="Stackpole Electronics Inc"/>
+      <property name="MPN" value="RMCF0603FT1K20"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fcaf79b9-535a-4418-9453-eafdfbf66f3a</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>3.3K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Category">Resistor</field>
+        <field name="Description">RES 3.3K OHM 1% 1/10W 0603</field>
+        <field name="MFR">Stackpole Electronics Inc</field>
+        <field name="MPN">RMCF0603FT3K30</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Category" value="Resistor"/>
+      <property name="Description" value="RES 3.3K OHM 1% 1/10W 0603"/>
+      <property name="MFR" value="Stackpole Electronics Inc"/>
+      <property name="MPN" value="RMCF0603FT3K30"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d0521bbd-720f-4dd6-9468-6b1ce1369f94</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>470K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Category">Resistor</field>
+        <field name="Description">RES 470K OHM 1% 1/10W 0603</field>
+        <field name="MFR">Stackpole Electronics Inc</field>
+        <field name="MPN">RMCF0603FT470K</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Category" value="Resistor"/>
+      <property name="Description" value="RES 470K OHM 1% 1/10W 0603"/>
+      <property name="MFR" value="Stackpole Electronics Inc"/>
+      <property name="MPN" value="RMCF0603FT470K"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f6aae05-b4c3-4a0d-8aee-56baf1ed0833</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>22K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Category">Resistor</field>
+        <field name="Description">RES 22K OHM 1% 1/10W 0603</field>
+        <field name="MFR">Stackpole Electronics Inc</field>
+        <field name="MPN">RMCF0603FT22K0</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Category" value="Resistor"/>
+      <property name="Description" value="RES 22K OHM 1% 1/10W 0603"/>
+      <property name="MFR" value="Stackpole Electronics Inc"/>
+      <property name="MPN" value="RMCF0603FT22K0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee0b4ed1-f7b0-480b-b87e-eb78edade806</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Category">Resistor</field>
+        <field name="Description">RES 10K OHM 1% 1/8W 0603</field>
+        <field name="MFR">Stackpole Electronics Inc</field>
+        <field name="MPN">RNCP0603FTD10K0</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Category" value="Resistor"/>
+      <property name="Description" value="RES 10K OHM 1% 1/8W 0603"/>
+      <property name="MFR" value="Stackpole Electronics Inc"/>
+      <property name="MPN" value="RNCP0603FTD10K0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c573add5-7133-4b0d-97ae-6a4fd246485e</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>68K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Category">Resistor</field>
+        <field name="Description">RES 68K OHM 1% 1/10W 0603</field>
+        <field name="MFR">Stackpole Electronics Inc</field>
+        <field name="MPN">RMCF0603FT68K0</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Category" value="Resistor"/>
+      <property name="Description" value="RES 68K OHM 1% 1/10W 0603"/>
+      <property name="MFR" value="Stackpole Electronics Inc"/>
+      <property name="MPN" value="RMCF0603FT68K0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>86589138-8b49-4bc4-a45a-924be24f407f</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>13K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Category">Resistor</field>
+        <field name="Description">RES 13K OHM 1% 1/10W 0603</field>
+        <field name="MFR">Stackpole Electronics Inc</field>
+        <field name="MPN">RMCF0603FT13K0</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Category" value="Resistor"/>
+      <property name="Description" value="RES 13K OHM 1% 1/10W 0603"/>
+      <property name="MFR" value="Stackpole Electronics Inc"/>
+      <property name="MPN" value="RMCF0603FT13K0"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19310892-8e4d-4eab-a02e-795f9b2a377f</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Category">Resistor</field>
+        <field name="Description">RES 1K OHM 1% 1/8W 0603</field>
+        <field name="MFR">Stackpole Electronics Inc</field>
+        <field name="MPN">RNCP0603FTD1K00</field>
+      </fields>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Category" value="Resistor"/>
+      <property name="Description" value="RES 1K OHM 1% 1/8W 0603"/>
+      <property name="MFR" value="Stackpole Electronics Inc"/>
+      <property name="MPN" value="RNCP0603FTD1K00"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c4f74685-0aef-4eaf-9e36-2398d0bad1f1</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TPS54360DDA</value>
+      <footprint>Package_SO:TI_SO-PowerPAD-8_ThermalVias</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tps54360.pdf</datasheet>
+      <fields>
+        <field name="Category">Step Down</field>
+        <field name="Description">Buck, Split Rail Switching Regulator IC Positive Adjustable 0.8V 1 Output 3.5A 8-PowerSOIC (0.154", 3.90mm Width)</field>
+        <field name="MFR">Texas Instruments</field>
+        <field name="MPN">TPS54360DDA</field>
+      </fields>
+      <libsource lib="Regulator_Switching" part="TPS54360DDA" description="3.5A, Step Down DC-DC Converter with Eco-mode, 4.5-60V Input Voltage, PowerSO-8"/>
+      <property name="Category" value="Step Down"/>
+      <property name="Description" value="Buck, Split Rail Switching Regulator IC Positive Adjustable 0.8V 1 Output 3.5A 8-PowerSOIC (0.154&quot;, 3.90mm Width)"/>
+      <property name="MFR" value="Texas Instruments"/>
+      <property name="MPN" value="TPS54360DDA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e20feee-8d7a-40c7-b240-d70c35d50761</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>Adafruit-ItsyBitsy-M4</value>
+      <footprint>footprint:Adafruit-ItsyBitsy-M4</footprint>
+      <fields>
+        <field name="Category">MODULE</field>
+        <field name="Description">Adafruit ItsyBitsy nRF52840 Express</field>
+        <field name="MFR">www.adafruit</field>
+        <field name="MPN">nRF52840</field>
+      </fields>
+      <libsource lib="Adafruit-ItsyBitsy-M4" part="Adafruit-ItsyBitsy-M4" description=""/>
+      <property name="Category" value="MODULE"/>
+      <property name="Description" value="Adafruit ItsyBitsy nRF52840 Express"/>
+      <property name="MFR" value="www.adafruit"/>
+      <property name="MPN" value="nRF52840"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="AUTOPUMP_V2.01.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13ae9577-1f0f-4d6c-bdbe-715101cd34b7</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Adafruit-ItsyBitsy-M4" part="Adafruit-ItsyBitsy-M4">
+      <fields>
+        <field name="Reference">U2</field>
+        <field name="Value">Adafruit-ItsyBitsy-M4</field>
+        <field name="Footprint">footprint:Adafruit-ItsyBitsy-M4</field>
+        <field name="Category">MODULE</field>
+        <field name="Description">Adafruit ItsyBitsy nRF52840 Express</field>
+        <field name="MFR">www.adafruit</field>
+        <field name="MPN">nRF52840</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RESET" type="passive"/>
+        <pin num="2" name="3V3" type="power_in"/>
+        <pin num="3" name="AREF" type="passive"/>
+        <pin num="4" name="VHI" type="passive"/>
+        <pin num="5" name="A0" type="passive"/>
+        <pin num="6" name="A1" type="passive"/>
+        <pin num="7" name="A2" type="passive"/>
+        <pin num="8" name="A3" type="passive"/>
+        <pin num="9" name="A4" type="passive"/>
+        <pin num="10" name="A5" type="passive"/>
+        <pin num="11" name="SCK" type="passive"/>
+        <pin num="12" name="MOSI" type="passive"/>
+        <pin num="13" name="MISO" type="passive"/>
+        <pin num="14" name="D2" type="passive"/>
+        <pin num="20" name="RX_D0" type="passive"/>
+        <pin num="21" name="TX_D1" type="passive"/>
+        <pin num="22" name="SDA" type="passive"/>
+        <pin num="23" name="SCL" type="passive"/>
+        <pin num="24" name="D5_5V" type="passive"/>
+        <pin num="25" name="D7" type="passive"/>
+        <pin num="26" name="D9" type="passive"/>
+        <pin num="27" name="D10" type="passive"/>
+        <pin num="28" name="D11" type="passive"/>
+        <pin num="29" name="D12" type="passive"/>
+        <pin num="30" name="D13" type="passive"/>
+        <pin num="31" name="VBUS" type="power_in"/>
+        <pin num="32" name="GND" type="power_in"/>
+        <pin num="33" name="VBATT" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x03">
+      <description>Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D">
+      <description>Diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky">
+      <description>Schottky diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_TVS">
+      <description>Bidirectional transient-voltage-suppression diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_TVS</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="Regulator_Switching" part="TPS54360DDA">
+      <description>3.5A, Step Down DC-DC Converter with Eco-mode, 4.5-60V Input Voltage, PowerSO-8</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tps54360.pdf</docs>
+      <footprints>
+        <fp>TI*SO*PowerPAD*ThermalVias*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPS54360DDA</field>
+        <field name="Footprint">Package_SO:TI_SO-PowerPAD-8_ThermalVias</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tps54360.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BOOT" type="input"/>
+        <pin num="2" name="VIN" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="RT/CLK" type="input"/>
+        <pin num="5" name="FB" type="input"/>
+        <pin num="6" name="COMP" type="passive"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="SW" type="output"/>
+        <pin num="9" name="GNDPAD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="IRF4905">
+      <description>-74A Id, -55V Vds, Single P-Channel HEXFET Power MOSFET, 20mOhm Ron, TO-220AB</description>
+      <docs>http://www.infineon.com/dgdl/irf4905.pdf?fileId=5546d462533600a4015355e32165197c</docs>
+      <footprints>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">IRF4905</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-220-3_Vertical</field>
+        <field name="Datasheet">http://www.infineon.com/dgdl/irf4905.pdf?fileId=5546d462533600a4015355e32165197c</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Adafruit-ItsyBitsy-M4">
+      <uri>E:\MIF\project individu\Freelancer\Scott K\Electronic\AUTOPUMP_V2.01/Local_Lib/Adafruit-ItsyBitsy-M4.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Switching">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Regulator_Switching.kicad_sym</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transistor_FET.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U2" pin="33" pinfunction="VBATT" pintype="power_in"/>
+    </net>
+    <net code="2" name="/A0">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="A0" pintype="passive"/>
+    </net>
+    <net code="3" name="/D2">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="D2" pintype="passive"/>
+    </net>
+    <net code="4" name="/D5">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U2" pin="24" pinfunction="D5_5V" pintype="passive"/>
+    </net>
+    <net code="5" name="/VIN">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="A1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VIN" pintype="power_in"/>
+    </net>
+    <net code="6" name="GND">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A2" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A2" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U1" pin="9" pinfunction="GNDPAD" pintype="power_in"/>
+      <node ref="U2" pin="32" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="7" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="BOOT" pintype="input"/>
+    </net>
+    <net code="8" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="SW" pintype="output"/>
+    </net>
+    <net code="9" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="COMP" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="FB" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(R3-Pad1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="RT/CLK" pintype="input"/>
+    </net>
+    <net code="16" name="VDD">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="17" name="unconnected-(U1-Pad3)">
+      <node ref="U1" pin="3" pinfunction="EN" pintype="input+no_connect"/>
+    </net>
+    <net code="18" name="unconnected-(U2-Pad1)">
+      <node ref="U2" pin="1" pinfunction="RESET" pintype="passive+no_connect"/>
+    </net>
+    <net code="19" name="unconnected-(U2-Pad2)">
+      <node ref="U2" pin="2" pinfunction="3V3" pintype="power_in+no_connect"/>
+    </net>
+    <net code="20" name="unconnected-(U2-Pad3)">
+      <node ref="U2" pin="3" pinfunction="AREF" pintype="passive+no_connect"/>
+    </net>
+    <net code="21" name="unconnected-(U2-Pad4)">
+      <node ref="U2" pin="4" pinfunction="VHI" pintype="passive+no_connect"/>
+    </net>
+    <net code="22" name="unconnected-(U2-Pad6)">
+      <node ref="U2" pin="6" pinfunction="A1" pintype="passive+no_connect"/>
+    </net>
+    <net code="23" name="unconnected-(U2-Pad7)">
+      <node ref="U2" pin="7" pinfunction="A2" pintype="passive+no_connect"/>
+    </net>
+    <net code="24" name="unconnected-(U2-Pad8)">
+      <node ref="U2" pin="8" pinfunction="A3" pintype="passive+no_connect"/>
+    </net>
+    <net code="25" name="unconnected-(U2-Pad9)">
+      <node ref="U2" pin="9" pinfunction="A4" pintype="passive+no_connect"/>
+    </net>
+    <net code="26" name="unconnected-(U2-Pad10)">
+      <node ref="U2" pin="10" pinfunction="A5" pintype="passive+no_connect"/>
+    </net>
+    <net code="27" name="unconnected-(U2-Pad11)">
+      <node ref="U2" pin="11" pinfunction="SCK" pintype="passive+no_connect"/>
+    </net>
+    <net code="28" name="unconnected-(U2-Pad12)">
+      <node ref="U2" pin="12" pinfunction="MOSI" pintype="passive+no_connect"/>
+    </net>
+    <net code="29" name="unconnected-(U2-Pad13)">
+      <node ref="U2" pin="13" pinfunction="MISO" pintype="passive+no_connect"/>
+    </net>
+    <net code="30" name="unconnected-(U2-Pad20)">
+      <node ref="U2" pin="20" pinfunction="RX_D0" pintype="passive+no_connect"/>
+    </net>
+    <net code="31" name="unconnected-(U2-Pad21)">
+      <node ref="U2" pin="21" pinfunction="TX_D1" pintype="passive+no_connect"/>
+    </net>
+    <net code="32" name="unconnected-(U2-Pad22)">
+      <node ref="U2" pin="22" pinfunction="SDA" pintype="passive+no_connect"/>
+    </net>
+    <net code="33" name="unconnected-(U2-Pad23)">
+      <node ref="U2" pin="23" pinfunction="SCL" pintype="passive+no_connect"/>
+    </net>
+    <net code="34" name="unconnected-(U2-Pad25)">
+      <node ref="U2" pin="25" pinfunction="D7" pintype="passive+no_connect"/>
+    </net>
+    <net code="35" name="unconnected-(U2-Pad26)">
+      <node ref="U2" pin="26" pinfunction="D9" pintype="passive+no_connect"/>
+    </net>
+    <net code="36" name="unconnected-(U2-Pad27)">
+      <node ref="U2" pin="27" pinfunction="D10" pintype="passive+no_connect"/>
+    </net>
+    <net code="37" name="unconnected-(U2-Pad28)">
+      <node ref="U2" pin="28" pinfunction="D11" pintype="passive+no_connect"/>
+    </net>
+    <net code="38" name="unconnected-(U2-Pad29)">
+      <node ref="U2" pin="29" pinfunction="D12" pintype="passive+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(U2-Pad30)">
+      <node ref="U2" pin="30" pinfunction="D13" pintype="passive+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(U2-Pad31)">
+      <node ref="U2" pin="31" pinfunction="VBUS" pintype="power_in+no_connect"/>
+    </net>
+  </nets>
+</export>
